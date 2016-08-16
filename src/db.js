@@ -9,4 +9,4 @@ module.exports = {
 	close: function() {
 		mongoose.connection.close();
 	}
-}
+};
