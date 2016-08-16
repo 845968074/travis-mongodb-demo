@@ -9,6 +9,5 @@ function saveAsAdmin(name, callback) {
 
   return user.save(callback);
 }
-
 module.exports = saveAsAdmin;
 
